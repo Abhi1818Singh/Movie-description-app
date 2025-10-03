@@ -1,4 +1,4 @@
-const API_KEY = "18e29623";
+const API_KEY = "";
 //  OMDb API key
 
 const searchBtn = document.querySelector("button");
